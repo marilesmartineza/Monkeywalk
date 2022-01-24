@@ -1,0 +1,16 @@
+body {
+    background-color: #FFECB3;
+    text-align: center;
+
+}
+
+#titulo {
+    color: #4527A0;
+    font-family: Comic Sans MS;
+}
+
+#caminar {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
